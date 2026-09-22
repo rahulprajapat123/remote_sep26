@@ -1,0 +1,3 @@
+python SQL pl/sql
+Object Oriented lang
+interpreted lang
